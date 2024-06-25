@@ -1,0 +1,14 @@
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.AssemblyInfoInputs.cache
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.AssemblyInfo.cs
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.csproj.CoreCompileInputs.cache
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\bin\Debug\net8.0\OOPIsEasyPart3.exe
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\bin\Debug\net8.0\OOPIsEasyPart3.deps.json
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\bin\Debug\net8.0\OOPIsEasyPart3.runtimeconfig.json
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\bin\Debug\net8.0\OOPIsEasyPart3.dll
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\bin\Debug\net8.0\OOPIsEasyPart3.pdb
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.dll
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\refint\OOPIsEasyPart3.dll
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.pdb
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\OOPIsEasyPart3.genruntimeconfig.cache
+C:\Users\Ank\source\repos\OOPIsEasyPart3\OOPIsEasyPart3\obj\Debug\net8.0\ref\OOPIsEasyPart3.dll
